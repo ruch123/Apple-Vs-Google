@@ -43,7 +43,7 @@ Making Bigrams:	6
  
 1 - Problem definition & specific goals
  
- Here is the case study , where I have pretended to work in HR Analytics and I have to help my team of recruiters with how external candidates perceive my organization compared to my competitor. I have pretended that I work for Apple and my biggest competitor being Google.    Google is the developer of the Android software, however, they are also a major competitor of Apple in the smartphone operating system market. In summary , the problem statement is : 
+Here is the case study , where I have pretended to work in HR Analytics and I have to help my team of recruiters with how external candidates perceive my organization compared to my competitor. I have pretended that I work for Apple and my biggest competitor being Google.    Google is the developer of the Android software, however, they are also a major competitor of Apple in the smartphone operating system market. In summary , the problem statement is : 
 Which company has better work life balance? Which has better perceived pay according to online reviews?
  
 I have followed a basic map in transitioning from a unorganized state to an organized state, I order to reach a conclusion or a novel insight. In tech terms , Web Scrapping and Text Mining is applied.
